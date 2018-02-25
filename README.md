@@ -1,2 +1,2 @@
 # Quest game
-[Task from](https://goodprogrammer.ru)
+[Task from Goodprogrammer.ru](https://goodprogrammer.ru)
